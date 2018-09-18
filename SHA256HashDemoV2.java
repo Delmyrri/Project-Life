@@ -52,7 +52,7 @@ public class SHA256HashDemoV2 {
 		for (int i = 0; i <HashList.size(); i++) {
 //			System.out.println(HashList.get(i)); // used for testing
 			for (int j = 0; j < HashList.size(); j++) {
-				if (HashList.get(i).equals(HashList.get(j))) {
+				if (HashList.get(i).equals(HashList.get(j)) && i!=j) {
 					System.out.format("hash %d verified with hash %d \n", i,j);	
 					}
 			}

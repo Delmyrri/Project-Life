@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Transaction>
+    <TransactionID>0002</TransactionID>
+    <PatientName>Jane Doe</PatientName>
+    <PatientPCP>Dr. John Doe</PatientPCP>
+    <EventName>Physical</EventName>
+    <PerformedBy>Dr. John Doe</PerformedBy>
+    <EventDate>2/2/2018</EventDate>
+    <PrescriptionsAdded>
+        None
+    </PrescriptionsAdded>
+    <CurrentPrescriptions>None</CurrentPrescriptions>
+    <PatientConditions>
+        <item>Pollen Allergy (mild)</item>
+    </PatientConditions>
+    <PatientMedicalHistory>
+            <Item>Stroke (Grandmother - 2006)</Item>
+    </PatientMedicalHistory>
+</Transaction>

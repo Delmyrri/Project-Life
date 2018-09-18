@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<Transaction>
+    <TransactionID>
+        0001
+        </TransactionID>
+    <PatientName>
+        John Smith
+        </PatientName>
+    <PatientPCP>
+        Dr. Jane Doe
+        </PatientPCP>
+    <EventName>
+        Routine Checkup / Physical
+        </EventName>
+    <PerformedBy>
+        Dr. Jane Doe
+        </PerformedBy>
+    <EventDate>
+        1/1/2018    
+        </EventDate>
+    <PrescriptionsAdded>
+        None
+    </PrescriptionsAdded>
+    <CurrentPrescriptions>
+        albuterol (Rx) - 90mcg - Administered via Inhaler
+    </CurrentPrescriptions>
+    <PatientConditions>
+        <item>Asthma (mild)</item>
+        <item>Peanut allergy (mild)</item>
+    </PatientConditions>
+    <PatientMedicalHistory>
+            <Item>Heart attack - Grandfather - 2006</Item>
+            <Item>Asthma - Mother - 1968</Item>
+    </PatientMedicalHistory>
+</Transaction>
